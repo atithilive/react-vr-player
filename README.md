@@ -70,3 +70,5 @@ render() {
 ## Change log
 
 - 0.1.1: Bug fixes: rotation issue, full-screen issue
+
+hello kya kar rahe tum koi kam nahi karte ho
